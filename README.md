@@ -13,12 +13,15 @@ Given the data, in the first deliverable  we initialized [new_full_student_data.
 ## School District Data Results 
 
 General statistics of all the numerical data in the dataset were performed through `student_df.describe()`. Using `.loc()` and `.iloc()` methods, we were able to filter the data; for example in retrieving all of the reading scores from Dixon High School, we were able to present the following: 
+
 ![Dixon High School](/screenshots/DixonHigh.png)
 
 Aggregating the data using `.groupby()`, we were able to determine each school's total student count: 
+
 ![Student Count](/screenshots/Student_count.png)
 
 More importantly, comparisons were performed regarding charter and public schools as follows: 
+
 ![School Budget](/screenshots/school_budget.png) ![Math Scores](/screenshots/math_score.png)
 
 ## School District Analysis Summary
