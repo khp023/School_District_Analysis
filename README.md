@@ -2,7 +2,7 @@
 
 ## Overview of School District Analysis 
 
-For a sample school district, students' standardized test data was collected such that we also have each student's grade and school data for analysis.  The database is located in file [new_full_student_data.csv](/Resources/new_full_student_data.csv). Students' performance data is useful for school district's administrative strategy and budgeting decisions; we will be performing analysis by data exploration and aggregation through utilizing the Pandas library on Python. The file [Student_Data_Challenge_Starter_Code.ipynb](Student_Data_Challenge_Starter_Code.ipynb) walks through the data analysis process in which the data is collected, prepared and processed, and analyzed. 
+For a sample school district, students' standardized test data was collected such that we also have each student's grade and school data for analysis.  The database is located in file [new_full_student_data.csv](/Resources/new_full_student_data.csv). Students' performance data is useful for school district's administrative strategy and budgeting decisions; we will be performing analysis by data exploration and aggregation through utilizing the Pandas library on Python. The file [Student_Data_Exploration.ipynb](Student_Data_Exploration.ipynb) walks through the data analysis process in which the data is collected, prepared and processed, and analyzed. 
 
 As developed in [PyPoll_Challenge.py](PyPoll_Challenge.py), the success of the analysis will be determined through proper usage of lists, dictionaries, and interative loops to filter the information.
 
